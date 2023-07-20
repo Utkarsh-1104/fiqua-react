@@ -4,7 +4,6 @@ import Count1 from '../assets/count1.png'
 import Count2 from '../assets/count2.png'
 import Vfish from '../assets/very-fish.jpg'
 import Mfish from '../assets/man-fish.jpg'
-// import Tick from '../assets/tick.png'
 
 const Page3 = () => {
     return (
@@ -49,6 +48,4 @@ const Page3 = () => {
         
     )
 }
-// style={{listStyleImage: `url(${Tick})`}} className='w-3 h-3'
-// style={{listStyleImage: `url(${Tick})`}} className='w-3 h-3'
 export default Page3;
